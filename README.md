@@ -1,8 +1,6 @@
 # Learning
 
-## Udemy
-
-https://www.udemy.com
+## [Udemy](https://www.udemy.com)
 
 Têm cursos de várias áreas. Alguns são gratuitos mas a maioria é pago e varia entre R$ 25-30.
 
