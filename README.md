@@ -6,6 +6,12 @@
 
 Têm cursos de várias áreas. Alguns são gratuitos mas a maioria é pago e varia entre R$ 25-30.
 
+- [TOTAL: CompTIA A+ Certification (220-1001)](https://www.udemy.com/course/new-comptia-a-2019-certification-1001-the-total-course/)
+- [CompTIA Network+ (N10-007) Full Course & Practice Exam](https://www.udemy.com/course/networkplus/)
+- [2020 Complete Python Bootcamp: From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
+- [Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/)
+- [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/)
+
 
 ### W3Schools - https://www.w3schools.com
 
