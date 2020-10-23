@@ -41,9 +41,8 @@ Plataforma de aprendizagem da Microsoft. Têm documentos e videoaulas gratuitos.
 
 Alguns cursos gratuitos e só exige pagamento para emitir certificado de conclusão.
 
-[Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
-
-[Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
  
 
 ### edX - https://www.edx.org
