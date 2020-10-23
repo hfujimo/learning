@@ -1,8 +1,28 @@
 # Learning
 
-## [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+## [Udemy](https://www.udemy.com)
 
-Plataforma de aprendizagem da Microsoft. Têm documentos e videoaulas gratuitos.
+Têm cursos de várias áreas. Alguns são gratuitos mas a maioria é pago e varia entre R$ 25-30.
+
+
+## [W3Schools](https://www.w3schools.com)
+
+Tutorial de programação voltado à desenvolvimento de site, como HTML, CSS e JavaScript, entre outros.
+
+
+## [Cloud Academy](https://cloudacademy.com/library)
+
+Cursos voltados à Cloud.
+
+
+## [Code Academy](https://www.codecademy.com/catalog)
+
+Cursos voltados à programação. O registro é gratuito e oferece acesso limitado.
+
+
+## [Katakoda](https://www.katacoda.com/learn)
+
+Plataforma de aprendizagem com ambiente de laboratório interativo e online.
 
 
 ## [Cognitive Class](https://cognitiveclass.ai/courses)
@@ -10,9 +30,9 @@ Plataforma de aprendizagem da Microsoft. Têm documentos e videoaulas gratuitos.
 Cursos de TI focados em áreas de Cloud, Data Science, Blockchain, AI (artificial intelligence) e Machine Learning. Muitos deles oferecem badges que são similares a certificação. Para obter o badge é necessário ter uma conta (gratuita) no [Your Acclaim](https://www.youracclaim.com).
 
 
-## [Udemy](https://www.udemy.com)
+## [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
-Têm cursos de várias áreas. Alguns são gratuitos mas a maioria é pago e varia entre R$ 25-30.
+Plataforma de aprendizagem da Microsoft. Têm documentos e videoaulas gratuitos.
 
 
 ## [Coursera](https://www.coursera.org/)
