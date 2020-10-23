@@ -4,6 +4,7 @@
 
 Plataforma de aprendizagem da Microsoft. Têm documentos e videoaulas gratuitos.
 
+
 ## [Cognitive Class](https://cognitiveclass.ai/courses)
 
 Cursos de TI focados em áreas de Cloud, Data Science, Blockchain, AI (artificial intelligence) e Machine Learning. Muitos deles oferecem badges que são similares a certificação. Para obter o badge é necessário ter uma conta (gratuita) no [Your Acclaim](https://www.youracclaim.com).
@@ -12,7 +13,6 @@ Cursos de TI focados em áreas de Cloud, Data Science, Blockchain, AI (artificia
 ## [Udemy](https://www.udemy.com)
 
 Têm cursos de várias áreas. Alguns são gratuitos mas a maioria é pago e varia entre R$ 25-30.
-
 
 
 ## [Coursera](https://www.coursera.org/)
@@ -27,8 +27,3 @@ Alguns cursos gratuitos e só exige pagamento para emitir certificado de conclus
 ## [edX](https://www.edx.org)
 
 Similar ao Coursera, têm cursos de várias áreas e alguns são gratuitos.
-
-
-## [Khan Academy](https://www.khanacademy.org/)
-
-O site é primáriamente voltado à videoaulas de matemática, mas têm conteúdos de ciências, artes, computação e economia também.
