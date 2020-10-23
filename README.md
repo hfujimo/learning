@@ -1,6 +1,6 @@
 # Learning
 
-## [Udemy](https://www.udemy.com)
+## Udemy
 
 https://www.udemy.com
 
